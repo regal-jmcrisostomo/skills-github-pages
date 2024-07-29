@@ -1,6 +1,6 @@
+```yml
 ---
-title: "Test Title"
-date: 2024-07-30
+title: "Welcome to my blog"
+date: 2019-01-20
 ---
-
-test only
+```
